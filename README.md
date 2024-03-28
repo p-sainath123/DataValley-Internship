@@ -1,2 +1,0 @@
-# DataValley-Internship
-Assignments
